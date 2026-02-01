@@ -5,7 +5,7 @@ version: 0.0.1
 language: de
 narrator: Deutsch Female
 
-import:  https://github.com/EUF-SpoWis/VL_Einfuehrung_Sportwissenschaft/blob/main/config.md
+import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/refs/heads/main/config.md
 
 -->
 
