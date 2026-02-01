@@ -35,15 +35,13 @@ Klicken Sie auf die Unterkapitel links um die Materialien aufzurufen.
 ## Themen
 
 <!-- data-type="none" -->
-| Veranstaltungstitel                                                                                                      | Was lernen Sie hier?                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| [00 Einführung](00_Einfuehrung.md)                                                                                       | Die große Vision                                                                       |
-| [01 Sport studieren an der EUF](01_Sport_studieren_an_der_EUF.md)                                                        | Aufbau des Studiums an der EUF.                                                        |
-| [02 Grundlagen](02_Grundlagen.md)                                                                                        | Sport, Wissenschaft, Sportwissenschaft                                                 |
-| [03 Exemplarisch: Naturwissenschaftliche Teildisziplinen](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)     | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
-| [04 Exemplarisch: Gesellschaftswissenschaftliche Teildisziplinen](04_Exemplarisch_Gesellschaftliche_Teildisziplinen.md)  | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
-| [05 How do we catch our cats? - Teil 1](05_How_do_we_catch_our_cats_1.md)                                                | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
-| [06 How do we catch our cats? - Teil 2](05_How_do_we_catch_our_cats_2.md)                                                | Grundlagen portwissenschaftlichen Arbeits, quantitatives Forschen                      |
-| [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                                                  | Rückblick auf das Semester, Hinweise zur Klausur über das                              |
-
-Test
+| Veranstaltungstitel                                                                                                                    | Was lernen Sie hier?                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [00 Einführung](00_Einfuehrung.md)                                                                                                     | Die große Vision                                                                       |
+| [01 Sport studieren an der EUF](01_Sport_studieren_an_der_EUF.md)                                                                      | Aufbau des Studiums an der EUF.                                                        |
+| [02 Grundlagen](02_Grundlagen.md)                                                                                                      | Sport, Wissenschaft, Sportwissenschaft                                                 |
+| [03 Exemplarisch: Naturwissenschaftliche Teildisziplinen](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)                   | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
+| [04 Exemplarisch: Gesellschaftswissenschaftliche Teildisziplinen](04_Exemplarisch_Gesellschaftswissenschaftliche_Teildisziplinen.md)   | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
+| [05 How do we catch our cats? - Teil 1](05_How_do_we_catch_our_cats_1.md)                                                              | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
+| [06 How do we catch our cats? - Teil 2](05_How_do_we_catch_our_cats_2.md)                                                              | Grundlagen portwissenschaftlichen Arbeits, quantitatives Forschen                      |
+| [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                                                                | Rückblick auf das Semester, Hinweise zur Klausur über das                              |
