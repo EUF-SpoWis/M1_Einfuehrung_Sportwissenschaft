@@ -22,8 +22,6 @@ import:  https://github.com/EUF-SpoWis/VL_Einfuehrung_Sportwissenschaft/blob/mai
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/blob/main/00_Einfuehrung.md      |
 | **Autoren:**             | @author                                                                                         |
 
----------------------------------------------------------------------
-
 
 In dieser Online-Lernumgebung werden Lernressourcen der Veranstaltung *Einführung in die Sportwissenschaft und das sportwissenschaftliche Arbeiten* des Instituts für Sportwissenschaft an der Europa-Universität Flensburg bereitgestellt.
 Klicken Sie auf die Unterkapitel links um die Materialien aufzurufen. 
