@@ -15,6 +15,6 @@ comment:  This file provides commonly used meta information for all LiaScript co
 # Config variables
 
 ```
-@config.semester:   `Herbstsemester 2026/27`
+@config.semester:   `HeSe 2026/27`
 @config.lecture:    `Einführung in die Sportwissenschaft und das sportwissenschafltiche Arbeiten`
 ```
