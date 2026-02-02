@@ -46,4 +46,3 @@ Klicken Sie auf die Unterkapitel links um die Materialien aufzurufen.
 
  <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">	<iframe src="https://uni-flensburg.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3a6c214e-815c-44f6-857f-b3760109780e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="In Panopto integrierter Videoplayer" aria-description="Video 1"></iframe></div>
 Video 1
-
