@@ -34,10 +34,16 @@ Klicken Sie auf die Unterkapitel links um die Materialien aufzurufen.
 | Veranstaltungstitel                                                                                                                    | Was lernen Sie hier?                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [00 Einführung](00_Einfuehrung.md)                                                                                                     | Die große Vision                                                                       |
-| [01 Sport studieren an der EUF](01_Sport_studieren_an_der_EUF.md)                                                                      | Aufbau des Studiums an der EUF.                                                        |
+| [01 Sport studieren an der EUF](01_Sport_studieren_an_der_EUF.md)                                                                      | Aufbau des Studiums an der EUF                                                         |
 | [02 Grundlagen](02_Grundlagen.md)                                                                                                      | Sport, Wissenschaft, Sportwissenschaft                                                 |
 | [03 Exemplarisch: Naturwissenschaftliche Teildisziplinen](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)                   | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
 | [04 Exemplarisch: Gesellschaftswissenschaftliche Teildisziplinen](04_Exemplarisch_Gesellschaftswissenschaftliche_Teildisziplinen.md)   | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
 | [05 How do we catch our cats? - Teil 1](05_How_do_we_catch_our_cats_1.md)                                                              | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
 | [06 How do we catch our cats? - Teil 2](05_How_do_we_catch_our_cats_2.md)                                                              | Grundlagen portwissenschaftlichen Arbeits, quantitatives Forschen                      |
 | [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                                                                | Rückblick auf das Semester, Hinweise zur Klausur über das                              |
+
+## Phänomene des Sports
+
+ <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">	<iframe src="https://uni-flensburg.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3a6c214e-815c-44f6-857f-b3760109780e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="In Panopto integrierter Videoplayer" aria-description="Video 1"></iframe></div>
+Video 1
+
