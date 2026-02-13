@@ -26,13 +26,41 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 ## Fragen zum Einstieg...
 
-Welche Aussage hätte am ehesten von der Sportlehrkraft kommen können, die dir am meisten im Gedächtnis geblieben ist? 
+{{0-1}}
+****************************************************************************************************************************************************************************************************
+**Woher kommst du?**
+
+[[SH nördlich]]         aus Schleswig-Holstein nördlich des Kanals
+[[SH südlich]]          aus Schleswig-Holstein südlich des Kanals
+[[Hamburg]]             Hamburg
+[[Niedersachsen]]       Niedersachsen
+[[Bremen]]              Bremen
+[[Mecklenburg-Vorpommern]] Mecklenburg-Vorpommern
+[[anderes Bundesland]]  anderes Bundesland
+[[Ausland]]             Ausland
+****************************************************************************************************************************************************************************************************
+
+{{1-2}}
+****************************************************************************************************************************************************************************************************
+
+**Warum bist du hier**
+
+    [[___]]
+
+****************************************************************************************************************************************************************************************************
+
+{{2-3}}
+****************************************************************************************************************************************************************************************************
+**Welche Aussage hätte am ehesten von der Sportlehrkraft kommen können, die dir am meisten im Gedächtnis geblieben ist?**
 
 [[Los]]                 „Kinder, hier ist der Ball, bildet Mannschaften, 11 gegen 11 und los geht‘s“
 [[Wissenschaftler*in]]  „Ok Leute, differenziert doch nun einmal die verschiedenen Trainingsmethoden hinsichtlich des möglichen Aufkommens der anaeroben Schwelle.“
 [[Besprecher*in]]       „Leute, Leute, Leute. So, Stopp erst mal... Das Problem müssen wir nun als Gruppe gemeinsam klären.“
 [[Termine]]             „Wir hören heute etwas früher auf, ich habe noch einen wichtigen Termin.“
 [[Gefühle]]             „Wie habt ihr Euch dabei gefühlt?“
+****************************************************************************************************************************************************************************************************
+
+
 
 ## Themen
 
@@ -62,13 +90,11 @@ Video 1
 > - **Öffentlich zugängliches Material**: Lege dir einen GitHub-Account an (Link s. [Seite 1](#einführung-in-die-lehveranstaltung)). Es empfiehlt sich, den Kurs am Ende des Semesters in den eigenen Account zu kopieren. 
 > - **Geschütztes Material**: Findest du im Moodle-Kurs "Einführende Perspektiven in die Sportwissenschaft"
 
-### Kontakt
-
 ### Prüfung
 
 > - Dieses Teilmodul gehört zum Modul 1 "Einführende Perspektiven in die Sportwissenschaft" 
 > - Modul 1 umfasst auch das Teilmodul "Grundlagen der Sportpädagogik und Sportdidaktik", das im FrSe angeboten wird. 
-> - Nach dem FrSe wird das Modul 1 mit einer gemeinsamen schriftlichen Klausur abgeschlossen. 
+> - Nach dem FrSe wird das Modul 1 mit einer  schriftlichen Klausur über beide Teilmodule abgeschlossen. 
 
 ## Sportstudium an der EUF 
 
@@ -95,31 +121,60 @@ Video 1
 [^2]  Studierende mit dem Ziel erziehungswissenschaftlicher oder fachwissenschaftlicher Masterstudiengang
 
 
+### Team am Institut für Sportwissenschaft
+
+**Arbeitsbereich Sportpädagogik und Sportdidaktik**
+
+![Tim_Heemsoth](https://www.uni-flensburg.de/processed-image/4122767/deliver?image=4122767&contentHash=0052657d724575a625733637b5c3f09fe86e79a8&processingInstructions=%7B%22width%22%3A280%2C%22height%22%3Anull%2C%22crop%22%3Anull%7D&hash=c794588e5c4e043d01f335a2e3fb452c117079cc&eID=tx_intdiv_thumbnail "Prof. Dr. Dr. Tim Heemsoth, Arbeitsbereichesleitung")
+![Swantje_Brandt](https://www.uni-flensburg.de/processed-image/4140555/deliver?image=4140555&contentHash=fd4538809b03e0f5b119528fa3eded32e0c5acab&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3Anull%7D&hash=14cab2c4a7264f6fd3070fbc9a97e05e47f42d38&eID=tx_intdiv_thumbnail "Swantje Brandt")
+![Ines_Ernst](https://www.uni-flensburg.de/processed-image/4140553/deliver?image=4140553&contentHash=36e01568b040f2385d7cf61e637063bd8074b35d&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3Anull%7D&hash=34bc807264ed8df06262212192cc3a7eb7f2c287&eID=tx_intdiv_thumbnail "Ines Ernst")
+![Anneke_Langer](https://www.uni-flensburg.de/processed-image/2174641/deliver?image=2174641&contentHash=3e2796f5ea74238b6283d1706b904f2f2d352c6c&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A0%2C%22y%22%3A0%2C%22width%22%3A222%2C%22height%22%3A222%7D%7D&hash=7903427605ae64a71fb87e808d0a56d88c1a1da7&eID=tx_intdiv_thumbnail "Dr. Anneke Langer")
+![Tobias Regenbrecht](https://www.uni-flensburg.de/processed-image/4142850/deliver?image=4142850&contentHash=3775ed15f9ff5903803df785ec51233bf4e01a38&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A0%2C%22y%22%3A155.03400000000002%2C%22width%22%3A989.5535168195719%2C%22height%22%3A989.712%7D%7D&hash=78cfd137d91cde7084777b28e5e474873a1f4299&eID=tx_intdiv_thumbnail "Tobias Regenbrecht")
+![Meike_Starke](https://www.uni-flensburg.de/processed-image/34553/deliver?image=34553&contentHash=984b7ed676ee0bc08962100904917023b4ab3308&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A84.60597045517767%2C%22y%22%3A84.87814410787229%2C%22width%22%3A853.5617117842554%2C%22height%22%3A853.5617117842554%7D%7D&hash=abbb75148be09d577aeb7c64210a96e13873906d&eID=tx_intdiv_thumbnail "Meike Starke")
+
+**Arbeitsbereich Trainings- und Bewegungswissenschaft**
+
+![Lina_Rahlf](https://www.uni-flensburg.de/processed-image/4106063/deliver?image=4106063&contentHash=963dbd5968f014e44bc73117355b4f4c78eb2487&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A0%2C%22y%22%3A0%2C%22width%22%3A889%2C%22height%22%3A889%7D%7D&hash=278f91cc64bf59cf5369f80b4170b11e0ae0e50a&eID=tx_intdiv_thumbnail "Jun-Prof. Dr. Lina Rahlf, Arbeitsbereichsleitung")
+![Anke_Goriss](https://www.uni-flensburg.de/processed-image/2652584/deliver?image=2652584&contentHash=d672787447209d3cbead0cb18cd14b825b9bd3ac&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A121.84059060476068%2C%22y%22%3A5.235786399767284%2C%22width%22%3A774.9364272004655%2C%22height%22%3A774.9364272004655%7D%7D&hash=3b8e8dac38723a42c67f7efc700fec1e58780cdd&eID=tx_intdiv_thumbnail "Anke Goriss")
+![Swatchhanda_Kher](https://www.uni-flensburg.de/processed-image/4126636/deliver?image=4126636&contentHash=d0538c269f1234555ccfd2d920911fbe32662e21&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A0%2C%22y%22%3A28.5%2C%22width%22%3A609%2C%22height%22%3A609%7D%7D&hash=db8ec0f8ddaf3be9d0d7b0beba07d4b1659dd6bc&eID=tx_intdiv_thumbnail "Swatchhanda Kher")
+![Nele_Schlapkohl](https://www.uni-flensburg.de/processed-image/34550/deliver?image=34550&contentHash=aed1e5be69584a07792be3f1dd42e6fae099b05b&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A15.785000000000002%2C%22y%22%3A14.222419618528612%2C%22width%22%3A419.43%2C%22height%22%3A356.36316076294275%7D%7D&hash=d6a7ecfbf12c0916e8d075b4afdac006d0431834&eID=tx_intdiv_thumbnail "Dr. Nele Schlapkohl")
+![Nele_Söker](https://www.uni-flensburg.de/processed-image/4141070/deliver?image=4141070&contentHash=ad43e4546958007a643be006036ca929ee06047c&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A0%2C%22y%22%3A38.075%2C%22width%22%3A1024%2C%22height%22%3A1023.456%7D%7D&hash=f18e5a660eba5b7f593f16bcd2059681fb7d3cb7&eID=tx_intdiv_thumbnail "Nele Söker")
+
+**Sekretariat des Instituts**
+
+![Kontakt](https://www.uni-flensburg.de/processed-image/4141264/deliver?image=4141264&contentHash=afc944cd2a56e8e220325c90fc69a53ecc9ee814&processingInstructions=%7B%22width%22%3A%22300c%22%2C%22height%22%3A300%2C%22crop%22%3A%7B%22x%22%3A181%2C%22y%22%3A0%2C%22width%22%3A362%2C%22height%22%3A362%7D%7D&hash=48c842582fa58fe306a051b5c5916620486db328&eID=tx_intdiv_thumbnail)
+![Diana_Garbereder](https://www.uni-flensburg.de/processed-image/34549/deliver?image=34549&contentHash=a648bda8a6efda69f4096b814c008cd78c6689b9&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A123.58295964125561%2C%22y%22%3A34.58295964125665%2C%22width%22%3A310.8340807174888%2C%22height%22%3A310.8340807174888%7D%7D&hash=21bc0d554f1a99ae877fc4f5f03284b21e3c72df&eID=tx_intdiv_thumbnail "Diana Garbereder")
+
+
 ### Studiendokumente
 
-{{0-3}}
+{{0-2}}
 ****************************
 **Rechtliche Verankerung** 
 
 Die [Fachprüfungsordnung](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert über den rechtlich verankerten Rahmen des Studiums. 
 ****************************
 
-{{1-3}}
+{{1-2}}
 ****************************
 **Informierende Dokumente** 
 
 Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert über die Inhalte, Prüfungsformate, Semestrigkeit und den geplanten Workload der einzelnen Module. 
 ****************************
 
-{{2-3}}
+{{2-2}}
 ****************************
 **Sportspezifische Dokumente**
 
 Auf den Seiten des Sportinstituts findet ihr auch Angaben zu den [sportpraktischen Prüfungen](https://www.uni-flensburg.de/sport/studierende/pruefungen-in-den-bewegungsfeldern). 
 ****************************
 
-{{3}}
-****************************
+### Studieninformation
+
+> Auf den Seiten des Instituts für Sportwissenschaft findet ihr Informationen zur Studienberatung und Fragen der [Anerkennung von an anderen Institituionen erbrachten Leistungen](https://www.uni-flensburg.de/sport/studierende/studienberatung-und-anerkennung).
+
+### Rechercheauftrag
+
 > **Aufgabe 1**
 > 
 > Recherchiere in der Fachprüfungsordnung die folgenden Informationen
@@ -135,7 +190,7 @@ Auf den Seiten des Sportinstituts findet ihr auch Angaben zu den [sportpraktisch
 >
 > * Wie viele Prüfungsteile umfasst die praktische Prüfung im Bewegungsfeld Laufen, Springen und Werfen?
 > * Welche Prüfungsleistung im Bewegunsgfeld Bewegen im Wasser ist notwendig für die Note 2,3? 
-****************************
+> * Wer verantwortet die Studienberatung im Bachelor Teilstudiengang Sportwissenschaft?
 
 ## Übungsfragen
 

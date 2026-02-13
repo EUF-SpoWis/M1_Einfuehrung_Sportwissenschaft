@@ -134,13 +134,7 @@ Ein Sportler nimmt sich für einen (vertikalen) Schlusssprung aus dem Stand vor
 
 ## Übungsfragen
 
-Welche der folgenden Aussagen zu Begiffen der Sportwissenschaft ist korrekt?
 
-- [[ ]] Die Geburtststunde der Sportwissenschaft in Deutschland lässt sich mit der Gründung der Deutschen Hochschule für Leibesübungen 1946 verbinden.  
-- [[x]] München 1972, die „Trimm Dich"-Bewegung 
-- [[x]] Aussage 3
-- [[ ]] Aussage 4
-- [[x]] Aussage 5
 
 DSB-Gündung 1950
 BISp-Gründung 1970
