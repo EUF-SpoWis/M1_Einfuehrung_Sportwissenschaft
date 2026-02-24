@@ -115,10 +115,12 @@ Mit diesen Informationen können wir einen "standardisierten Mittelwertunterschi
 
 ## Entscheidung über den T-Wert
 
-<div style="position: relative; padding-bottom: 66%; height: 0; overflow: hidden; max-width: 100%;">
+<div style="width:100%; max-width:960px; margin:auto;">
   <iframe 
-    src="https://www.geogebra.org/material/iframe/id/gmmue3jx"
-    style="position: absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    src="https://www.geogebra.org/material/iframe/id/gmmue3jx?width=960&height=720&border=false"
+    width="960"
+    height="720"
+    style="border:0;"
     allowfullscreen>
   </iframe>
 </div>
