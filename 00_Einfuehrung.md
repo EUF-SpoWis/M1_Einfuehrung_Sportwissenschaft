@@ -32,10 +32,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 [[SH nördlich]]         aus Schleswig-Holstein nördlich des Kanals
 [[SH südlich]]          aus Schleswig-Holstein südlich des Kanals
-[[Hamburg]]             Hamburg
-[[Niedersachsen]]       Niedersachsen
-[[Bremen]]              Bremen
-[[Mecklenburg-Vorpommern]] Mecklenburg-Vorpommern
+[[Hamburg]]             nachbarländer: HH, BR, NI, MP
 [[anderes Bundesland]]  anderes Bundesland
 [[Ausland]]             Ausland
 ****************************************************************************************************************************************************************************************************
@@ -43,13 +40,29 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 {{1-2}}
 ****************************************************************************************************************************************************************************************************
 
-**Warum bist du hier**
-
-    [[___]]
-
-****************************************************************************************************************************************************************************************************
+**In welchem Bewegungsfeld hast du am meisten Erfahrung gesammelt?**
+[[Spielen]]                  Spielen
+[[Tanz]]                     Gestalten und Darstellen, Turnen
+[[Laufen, Springen, Werfen]] Laufen, Springen, Werfen
+[[Kämpfen]]                  Mit/gegen Partner kämpfen
+[[Fitness]]                  Fitnesssport
+***************************************************************************************************************************************************************************************
 
 {{2-3}}
+***************************************************************************************************************************************************************************************
+**Was motiviert dich zu einem Sportstudium?**
+
+    [[___]]
+****************************************************************************************************************************************************************************************************
+
+{{3-4}}
+***************************************************************************************************************************************************************************************
+**Was hat dich zur Wahl der EUF als Studienstandort bewgogen?**
+
+    [[___]]
+****************************************************************************************************************************************************************************************************
+
+{{4-5}}
 ****************************************************************************************************************************************************************************************************
 **Welche Aussage hätte am ehesten von der Sportlehrkraft kommen können, die dir am meisten im Gedächtnis geblieben ist?**
 
@@ -60,7 +73,16 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 [[Gefühle]]             „Wie habt ihr Euch dabei gefühlt?“
 ****************************************************************************************************************************************************************************************************
 
+{{5-6}}
+****************************************************************************************************************************************************************************************************
+**Welche Aussage könnte später am ehesten auf dich zutreffen??**
 
+[[Los]]                 „Kinder, hier ist der Ball, bildet Mannschaften, 11 gegen 11 und los geht‘s“
+[[Wissenschaftler*in]]  „Ok Leute, differenziert doch nun einmal die verschiedenen Trainingsmethoden hinsichtlich des möglichen Aufkommens der anaeroben Schwelle.“
+[[Besprecher*in]]       „Leute, Leute, Leute. So, Stopp erst mal... Das Problem müssen wir nun als Gruppe gemeinsam klären.“
+[[Termine]]             „Wir hören heute etwas früher auf, ich habe noch einen wichtigen Termin.“
+[[Gefühle]]             „Wie habt ihr Euch dabei gefühlt?“
+****************************************************************************************************************************************************************************************************
 
 ## Themen
 
@@ -105,7 +127,7 @@ Video 1
 |--------------------------------------------------------------|----------|-----------------------|------|-------------------------------------------------------|----|
 |M1 - Einführende Perspektiven in die Sportwissenschaft        | 1 & 2    | Vorlesung             |3     |Klasuur                                                |5   |
 |M2 - Naturwissenschaftliche Grundlagen von Sport und Bewegung | 1        | Vorlesung; Seminar    |3     |Klausur                                                |5   |
-|M3 - Lehren und Lenren von Bewegungen                         |1-3       | Seminar und Übung     |7     |Praktische Prüfungen; Hausarbeit oder mdl. Prüfung.    |10  |
+|M3 - Lehren und Lernen von Bewegungen                         |1-3       | Seminar und Übung     |7     |Praktische Prüfungen; Hausarbeit oder mdl. Prüfung.    |10  |
 |M4 - Lehren und Lernen in Sportspielen                        |4 & 5     | Seminar und Übung     |5     |Praktische Prüfung; Klausur                            |5   |         
 |M5 - Fachdidaktisches Theorie-Praxis-Modul                    |3         | Seminar               |2     |Portfolio                                              |5   |    
 |M6 - Bewegungsgestaltung, Freizeit- und Trendsportarten       |3 & 4     | Seminar und Übung     |4     |Praktische Prüfung                                     |5   |    
@@ -125,7 +147,7 @@ Video 1
 
 **Arbeitsbereich Sportpädagogik und Sportdidaktik**
 
-![Tim_Heemsoth](https://www.uni-flensburg.de/processed-image/4122767/deliver?image=4122767&contentHash=0052657d724575a625733637b5c3f09fe86e79a8&processingInstructions=%7B%22width%22%3A280%2C%22height%22%3Anull%2C%22crop%22%3Anull%7D&hash=c794588e5c4e043d01f335a2e3fb452c117079cc&eID=tx_intdiv_thumbnail "Prof. Dr. Dr. Tim Heemsoth, Arbeitsbereichesleitung")
+![Tim_Heemsoth](https://www.uni-flensburg.de/processed-image/4122767/deliver?image=4122767&contentHash=0052657d724575a625733637b5c3f09fe86e79a8&processingInstructions=%7B%22width%22%3A280%2C%22height%22%3Anull%2C%22crop%22%3Anull%7D&hash=c794588e5c4e043d01f335a2e3fb452c117079cc&eID=tx_intdiv_thumbnail "Prof. Dr. Dr. Tim Heemsoth, Arbeitsbereichsleitung")
 ![Swantje_Brandt](https://www.uni-flensburg.de/processed-image/4140555/deliver?image=4140555&contentHash=fd4538809b03e0f5b119528fa3eded32e0c5acab&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3Anull%7D&hash=14cab2c4a7264f6fd3070fbc9a97e05e47f42d38&eID=tx_intdiv_thumbnail "Swantje Brandt")
 ![Ines_Ernst](https://www.uni-flensburg.de/processed-image/4140553/deliver?image=4140553&contentHash=36e01568b040f2385d7cf61e637063bd8074b35d&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3Anull%7D&hash=34bc807264ed8df06262212192cc3a7eb7f2c287&eID=tx_intdiv_thumbnail "Ines Ernst")
 ![Anneke_Langer](https://www.uni-flensburg.de/processed-image/2174641/deliver?image=2174641&contentHash=3e2796f5ea74238b6283d1706b904f2f2d352c6c&processingInstructions=%7B%22width%22%3A%22510c%22%2C%22height%22%3A510%2C%22crop%22%3A%7B%22x%22%3A0%2C%22y%22%3A0%2C%22width%22%3A222%2C%22height%22%3A222%7D%7D&hash=7903427605ae64a71fb87e808d0a56d88c1a1da7&eID=tx_intdiv_thumbnail "Dr. Anneke Langer")

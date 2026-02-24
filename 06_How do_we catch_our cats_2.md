@@ -103,8 +103,6 @@ Text Text Text
 ![t_Berechnung](img/t_Berechnung.jpg)
 Text
 
-
-
 Wir brauchen also weitere Informationen 
 
 - Wie viele Personen haben an der Studie teilgenommen?
@@ -115,66 +113,15 @@ Mit diesen Informationen können wir einen "standardisierten Mittelwertunterschi
 
 **Empirisches Vorgehen**
 
-### Qualitative Verfahren
+## Entscheidung über den T-Wert
+
+<div style="position: relative; padding-bottom: 66%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.geogebra.org/material/iframe/id/gmmue3jx"
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
-## Bewegungen analysieren
-
-### Biomechanische Prinzipien
-
-<section>
-## Sportliche Problemstellung
-Ein Sportler nimmt sich für einen (vertikalen) Schlusssprung aus dem Stand vor, möglichst hoch zu springen. Er überlegt und erprobt mehrere Möglichkeiten: Hochspringen wie die Skispringer ohne (gegenläufige) Auftaktbewegung, hochspringen wie die Gewichtheber im Training mit kräftigem, in tiefe Hocke führendem Auftakt oder hochspringen nur mit ganz geringem Auftakt wie etwa die Basketballer. Was ist effektiver? 
-</section>
-
-<section>
-## 1. Das Prinzip der Anfangskraft
-> Eine sportliche Bewegung, bei der ein:e Sportler:in oder das Sportgerät eine hohe Endgeschwindigkeit erreichen soll, ist durch eine entgegengesetzt gerichtete Bewegung einzuleiten. Dabei ist die einleitende Bewegung flüssig in die (Haupt-)Bewegung überzuführen.
-</section>
-
-## Übungsfragen
-
-
-
-DSB-Gündung 1950
-BISp-Gründung 1970
-DVS 1976
-70er-Jahre: Umbenennung sportwissenschaftlicher Institute von "Institut für Leibeserzeihung" in "Institut für Sportwissenschaft"
-
-
-
-### Testseite
-{{1}}
-This is an example for a *single* block animations.
-
-     {{2-3}}
-This one will appear on animation step 2 and disappear on 3.
-
-{{4}} This is also ok, but it will look be harder to spot on GitHub.
-
-What are your favorite colors?
-
-- [[1 red]]         is it red
-- [[2 green]]       green
-- [[3 blue]]        or blue
-- [[4 dark purple]] last chance ;-)
-
-### Video
-> Schau dir das folgende Video an und beantworte anschließend die Fragen.
-
-[↗ Video auf X öffnen](https://x.com/i/status/1099444323609792512)
-
-### Zitation
-
-Die Sportwissenschaft untersucht Sport und Bewegung aus
-interdisziplinärer Perspektive @cite{memorsport2017}.
-
-Patzelt definiert Wissenschaft als zielgerichtetes Handeln @cite{patzelt2013}.
-
-@@bibliography
-{
-  "bibtex": "literatur.bib",
-  "style": "apa"
-}
-@@
 
