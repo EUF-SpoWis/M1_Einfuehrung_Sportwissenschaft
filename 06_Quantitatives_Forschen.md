@@ -11,7 +11,20 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 ## How do we catch our cats? 
 
-** Qualitative und quantitative Forschungsmethoden ** 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/main/06_Quantitatives_Forschen.md#1)
+
+| Parameter                | Kursinformationen                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Veranstaltung:**       | @config.lecture                                                                                 |
+| **Semester:**            | @config.semester                                                                                |
+| **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
+| **Inhalte:**             | `Einführgng in quantitative Forschungsmethoden`                                                            |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/blob/main/06_Quantitatives_Forschen.md      |
+| **Autoren:**             | @author                                                                                         |
+
+> (c) Alle Rechte vorbehalten. 
+
+## Qualitative und quantitative Forschungsmethoden ** 
 
 ### Quantitative Verfahren
 
