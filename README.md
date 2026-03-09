@@ -16,16 +16,15 @@ Dieser Kurs vermittelt einführende Grundlagen zur Sportwissenschaft und zum spo
 
 ### 📖 Vorlesungsstruktur (7 Sitzungen)
 
-| Veranstaltungstitel                                                                                                      | Was lernen Sie hier?                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| [00 Einführung](00_Einfuehrung.md)                                                                                       | Die große Vision                                                                       |
-| [01 Sport studieren an der EUF](01_Sport_studieren_an_der_EUF.md)                                                        | Aufbau des Studiums an der EUF.                                                        |
-| [02 Grundlagen](02_Grundlagen.md)                                                                                        | Sport, Wissenschaft, Sportwissenschaft                                                 |
-| [03 Exemplarisch: Naturwissenschaftliche Teildisziplinen](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)     | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
-| [04 Exemplarisch: Gesellschaftswissenschaftliche Teildisziplinen](04_Exemplarisch_Gesellschaftliche_Teildisziplinen.md)  | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
-| [05 How do we catch our cats? - Teil 1](05_How_do_we_catch_our_cats_1.md)                                                | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
-| [06 How do we catch our cats? - Teil 2](05_How_do_we_catch_our_cats_2.md)                                                | Grundlagen portwissenschaftlichen Arbeits, quantitatives Forschen                      |
-| [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                                                  | Rückblick auf das Semester, Hinweise zur Klausur über das                              |
+| Veranstaltungstitel                                                                                                                    | Was lernen Sie hier?                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [00 Einführung](00_Einfuehrung.md)                                                                                                     | Die große Vision                                                                       |
+| [01 Grundlagen](01_Grundlagen.md)                                                                                                      | Sport, Wissenschaft, Sportwissenschaft                                                 |
+| [02 Exemplarisch: Naturwissenschaftliche Teildisziplinen](02_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)                   | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
+| [03 Exemplarisch: Sozialwissenschaftliche Teildisziplinen](03_Exemplarisch_Sozialwissenschaftliche_Teildisziplinen.md)                 | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
+| [04 How do we catch our cats? - Qualitatives Forschen](04_Qualitatives_Forschen.md)                                                    | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
+| [05 How do we catch our cats? - Quantitatives Forschen](05_Quantitatives_Forschen.md)                                                  | Grundlagen portwissenschaftlichen Arbeits, quantitatives Forschen                      |
+| [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                                                                | Rückblick auf das Semester, Hinweise zur Klausur                                       |
 
 
 ## 🚀 Kurs starten
