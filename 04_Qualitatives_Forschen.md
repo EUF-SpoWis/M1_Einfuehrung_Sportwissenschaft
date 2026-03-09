@@ -9,7 +9,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 -->
 
-## How do we catch our cats? - Teil 1
+## How do we catch our cats? - Qualitatives Forschen 
 
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/main/04_Qualitatives_Forschen.md#1)

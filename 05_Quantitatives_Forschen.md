@@ -9,7 +9,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 -->
 
-## How do we catch our cats? - Teil 2
+## How do we catch our cats? - Quantitatives Forschen
 
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/main/05_Quantitatives_Forschen.md#1)
@@ -26,7 +26,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 > (c) Alle Rechte vorbehalten. 
 
 
-## Qualitative und quantitative Forschungsmethoden ** 
+## Qualitative und quantitative Forschungsmethoden
 
 ### Quantitative Verfahren
 
