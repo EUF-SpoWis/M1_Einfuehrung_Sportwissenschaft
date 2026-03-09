@@ -94,7 +94,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 | [02 Exemplarisch: Naturwissenschaftliche Teildisziplinen](02_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)                   | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
 | [03 Exemplarisch: Sozialwissenschaftliche Teildisziplinen](03_Exemplarisch_Sozialwissenschaftliche_Teildisziplinen.md)                 | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
 | [04 How do we catch our cats? - Qualitatives Forschen](04_Qualitatives_Forschen.md)                                                    | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
-| [05 How do we catch our cats? - Quantitatives Forschen](05_Quantitatives_Forschen.md)                                                  | Grundlagen portwissenschaftlichen Arbeits, quantitatives Forschen                      |
+| [05 How do we catch our cats? - Quantitatives Forschen](05_Quantitatives_Forschen.md)                                                  | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                      |
 | [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                                                                | Rückblick auf das Semester, Hinweise zur Klausur                                       |
 
 ## Worum geht es?
