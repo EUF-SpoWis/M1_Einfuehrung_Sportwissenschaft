@@ -9,16 +9,16 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 -->
 
-# Abschluss 
+# Sportwissenschaft exemplarisch: Naturwissenschafltiche Teilsidziplinen
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/main/07_Abschluss.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/main/02_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md#1)
 
 | Parameter                | Kursinformationen                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
 | **Veranstaltung:**       | @config.lecture                                                                                 |
 | **Semester:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
-| **Inhalte:**             | `Rückblick auf die Lehveranstaltung und Vorbereitung auf die Klausur`                  |
+| **Inhalte:**             | `Phänomene und Erkenntnisinteressen naturwissenschaftlicher Teildisziplinen`                  |
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/blob/main/00_Einfuehrung.md      |
 | **Autoren:**             | @author                                                                                         |
 

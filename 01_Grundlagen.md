@@ -9,7 +9,20 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 -->
 
-## Grundlagen
+# Grundlagen
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/main/01_Grundlagen.md#1)
+
+| Parameter                | Kursinformationen                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Veranstaltung:**       | @config.lecture                                                                                 |
+| **Semester:**            | @config.semester                                                                                |
+| **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
+| **Inhalte:**             | `Grundlegende Orientierungen und Begriffe in der Sportwissenschaft.          `                  |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/blob/main/00_Einfuehrung.md      |
+| **Autoren:**             | @author                                                                                         |
+
+> (c) Alle Rechte vorbehalten. 
 
                           --{{0}}--
 Zunächst kann man fragen, was Sportwissenschaft ist. 
